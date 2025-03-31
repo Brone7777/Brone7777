@@ -1,3 +1,2 @@
-### hi there 👋
+### Hi there 👋
 
-<br />
